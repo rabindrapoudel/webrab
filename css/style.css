@@ -18,7 +18,7 @@ body {
 /* Hero section background image */
 .hero {
   height: 100vh;
-  background-image: url("../images/home pic.jpg");
+  background-image: url("../images/homepic.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -93,5 +93,6 @@ footer .social-icons a {
     width: 100% !important;
   }
 }
+
 
 
