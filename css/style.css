@@ -1,8 +1,8 @@
 /* Color variables */
 :root {
-  --white-color: #fff;
+  --black-color: #fff;
   --bg-color: #fff;
-  --gray-color: #ccc;
+  --blue-color: #ccc;
 }
 
 /* Changing background color */
@@ -93,6 +93,7 @@ footer .social-icons a {
     width: 100% !important;
   }
 }
+
 
 
 
